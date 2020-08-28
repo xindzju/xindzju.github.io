@@ -6,10 +6,10 @@ categories: blog
 ---
 
 ## Suggestion Format
-#### <type>(<scope>): <subject>
+#### &lt;type&gt;(&lt;scope&gt;): &lt;subject&gt;
 
 ## Description
-#### <type>(must have)
+#### &lt;type&gt;(must have)
 * feat: new feature
 * fix: bug fix
 * perf: perfomance related
@@ -20,8 +20,8 @@ categories: blog
 * revert: revert to specific commit
 * merge: code merge
 
-#### <scope>(optional)
+#### &lt;scope&gt;(optional)
 The sphere of influence of your commit, like UI, Backend or a specific component/module of your project.
 
-#### <subject>(must have)
+#### &lt;subject&gt;(must have)
 A concise and informative description of your commit
