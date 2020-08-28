@@ -5,9 +5,8 @@ date:   2020-08-28 09:20::00
 categories: blog
 ---
 
-## Suggestion
-commit message format
-<type>(<scope>): <subject>
+## Suggestion Format
+#### <type>(<scope>): <subject>
 
 ## Description
 #### <type>(must have)
