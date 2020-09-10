@@ -97,4 +97,24 @@ categories: blog
     t2: 8
     ```
 
+- Functional programming
+
+- auto
+
+- nullptr
+
+- strongly-typed enums
+
+- static assert
+
+- move 
+
+- lambda
+
+- override identifier
+
+- std::thread
+
+To be continued
+
 
