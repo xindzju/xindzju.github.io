@@ -19,6 +19,7 @@ categories: blog
 * chore: build related
 * revert: revert to specific commit
 * merge: code merge
+* style: format related, doesn't change code logic
 
 #### &lt;scope&gt;(optional)
 The sphere of influence of your commit, like UI, Backend or a specific component/module of your project.
