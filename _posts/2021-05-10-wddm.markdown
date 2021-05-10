@@ -13,7 +13,7 @@ categories: blog
 * DDI: Device Driver Interface
 
 # WDDM Architecture
-![WDDM Architecture](./assets/wddm_architecture.png)
+![WDDM Architecture](https://github.com/xindzju/xindzju.github.io/blob/master/_posts/assets/wddm_architecture.png)
 
 # WDDM Operation Flow
 ![WDDM Operation Flow](./assets/wddm_of.png)
