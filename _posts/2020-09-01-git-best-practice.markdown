@@ -5,15 +5,6 @@ date:   2020-09-01 16:17::00
 categories: blog
 ---
 
-## The difference between git revert and git reset
-* git reset --soft commit/tag
-delete commits before this target commit but keep changes
-* git reset --hard commit/tag 
-delete commits before this target commit and also including corresponding changes
-
-* git revert
-will add one more commit for this operation
-
 ## Standarlize git commit
 #### &lt;type&gt;(&lt;scope&gt;): &lt;subject&gt;
 
@@ -36,8 +27,12 @@ The sphere of influence of your commit, like UI, Backend or a specific component
 #### &lt;subject&gt;(must have)
 A concise and informative description of your commit
 
-## Git submodule
-* Add submodule 
-  * ```git submodule add url``` 
+## The difference between git revert and git reset
+* git reset --soft commit/tag
+delete commits before this target commit but keep changes
+* git reset --hard commit/tag 
+delete commits before this target commit and also including corresponding changes
 
-* Remove submodule 
+* git revert
+will add one more commit for this operation## Git submodule
+

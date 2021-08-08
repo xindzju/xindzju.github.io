@@ -5,8 +5,6 @@ date:   2020-07-07 00:20::00
 categories: blog
 ---
 
-Have you ever struggled to keep all the VIM command in our brain? If so, I think this blog will lighten a burden and make your coding life easier.
-
 Let's split this stuff into 3 catagories: Commands, Motions and Text Objects
 ## Commands
 * d - delete(also cut)
@@ -32,5 +30,3 @@ Then the common pattern is: `Commands` + `Motions` + `Text Objects`
 For example:
 * daw - delete all word
 * ciw - change in word
-
-**To be continued, will keep updating**
